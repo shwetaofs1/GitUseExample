@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		183D9493237443FF002F441E /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 183D9492237443FE002F441E /* LoginViewController.swift */; };
 		188517722372CB3700BA6E66 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 188517712372CB3700BA6E66 /* AppDelegate.swift */; };
 		188517742372CB3700BA6E66 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 188517732372CB3700BA6E66 /* ViewController.swift */; };
 		188517772372CB3700BA6E66 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 188517752372CB3700BA6E66 /* Main.storyboard */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		183D9492237443FE002F441E /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		1885176E2372CB3700BA6E66 /* GitUseExample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GitUseExample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		188517712372CB3700BA6E66 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		188517732372CB3700BA6E66 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -101,6 +103,7 @@
 			children = (
 				188517712372CB3700BA6E66 /* AppDelegate.swift */,
 				188517732372CB3700BA6E66 /* ViewController.swift */,
+				183D9492237443FE002F441E /* LoginViewController.swift */,
 				188517752372CB3700BA6E66 /* Main.storyboard */,
 				1885177B2372CB3A00BA6E66 /* Assets.xcassets */,
 				1885177D2372CB3A00BA6E66 /* LaunchScreen.storyboard */,
@@ -259,6 +262,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				183D9493237443FF002F441E /* LoginViewController.swift in Sources */,
 				188517742372CB3700BA6E66 /* ViewController.swift in Sources */,
 				1885177A2372CB3700BA6E66 /* GitUseExample.xcdatamodeld in Sources */,
 				188517722372CB3700BA6E66 /* AppDelegate.swift in Sources */,
